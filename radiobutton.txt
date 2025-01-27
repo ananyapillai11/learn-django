@@ -1,0 +1,11 @@
+                                    <div class="col-md-6">
+                                          <div class="container">
+                                            Gender <br>
+                                              <label class="radio-inline">
+                                                <input type="radio" name="g" checked>&nbsp; Male &emsp;
+                                              </label>
+                                              <label class="radio-inline">
+                                                <input type="radio" name="g">&nbsp; Female &emsp;
+                                              </label>
+                                          </div>     
+                                    </div>

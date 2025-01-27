@@ -1,0 +1,19 @@
+
+h1{
+    position: absolute;
+    top:150px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+
+
+}
+
+p{
+    position: relative;
+    top: 200px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+
+}

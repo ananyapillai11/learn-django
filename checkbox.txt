@@ -1,0 +1,15 @@
+<div class="container">
+                                            Qualification <br>
+                                              <label class="checkbox-inline">
+                                                <input type="checkbox" value="sslc" name="q">&nbsp; SSLC &emsp;
+                                              </label>
+                                              <label class="checkbox-inline">
+                                                <input type="checkbox" value="hsc" name="q">&nbsp; HSC &emsp;
+                                              </label>
+                                              <label class="checkbox-inline">
+                                                <input type="checkbox" value="ug" name="q">&nbsp; UG &emsp;
+                                              </label>
+                                              <label class="checkbox-inline">
+                                                <input type="checkbox" value="pg" name="q">&nbsp; PG &emsp;
+                                              </label>
+                                          </div>

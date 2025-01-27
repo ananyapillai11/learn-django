@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <a href="/">home</a>
+    <a href="formget">formget</a>
+    <a href="formpost">formpost</a>
+    <form>
+
+    name:<input type="text" name="n"><br>
+    age:<input type="number" name="a"><br>
+    email:<input type="email" name="e"><br>
+    password:<input type="password" name="p"><br>
+    <input type="submit" value="ok" name="btn">
+
+
+    </form>
+    {% if name %} <!--blade tag or jinja tag to give conditions for html pages-->
+    <h3>{{name}}</h3><!-- used to acess values from variable-->
+    <h3>{{age}}</h3>
+    <h3>{{email}}</h3>
+    <h3>{{password}}</h3>
+    {% endif %}
+</body>
+</html>

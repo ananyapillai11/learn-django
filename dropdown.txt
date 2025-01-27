@@ -1,0 +1,22 @@
+<div class="col-12">
+                                        <div class="form-floating">
+                                            <select class="form-select" id="district" name="dis">
+                                              <option value="">--Choose--</option>
+                                              <option value="trivandrum">Trivandrum</option>
+                                              <option value="kollam">Kollam</option>
+                                              <option value="pathanamthitta">Pathanamthitta</option>
+                                              <option value="alappuzha">Alappuzha</option>
+                                              <option value="kottayam">Kottayam</option>
+                                              <option value="idukki">Idukki</option>
+                                              <option value="ernakulam">Ernakulam</option>
+                                              <option value="thrissur">Thrissur</option>
+                                              <option value="palakkad">Palakkad</option>
+                                              <option value="malappuram">Malappuram</option>
+                                              <option value="kozhicode">Kozhicode</option>
+                                              <option value="wayanad">Wayanad</option>
+                                              <option value="kannur">Kannur</option>
+                                              <option value="kasaragod">Kasaragode</option>
+                                            </select>
+                                            <label for="district">Select District</label>
+                                          </div>
+                                    </div>
